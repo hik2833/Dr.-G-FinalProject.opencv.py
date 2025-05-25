@@ -1,0 +1,20 @@
+# Medication Reminder AI
+
+This AI-powered medication reminder and management system is designed to assist elderly individuals in managing their daily medications. It combines computer vision (simulated in this version) and natural language processing (NLP) to interact with users and promote medication adherence.
+
+---
+
+## 💡 Features
+- 📸 **Simulated Medication Label Scanning:** Uses computer vision concepts to recognize medication names.
+- 💬 **Conversational Chatbot:** Interacts with users through simple questions and reminders.
+- 📊 **Adherence Risk Prediction:** Uses a Bernoulli Naive Bayes classifier to predict the user's medication adherence risk based on their reported habits.
+- 🔍 **Information Lookup:** Users can inquire about medication dosages, potential side effects, and reminders.
+
+---
+
+## 🚀 Getting Started
+
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/yourusername/medication-reminder-ai.git
+cd medication-reminder-ai
